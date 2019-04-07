@@ -1,0 +1,13 @@
+
+
+**/*.rs.bk
+
+.DS_Store
+target/.DS_Store
+target/.rustc_info.json
+target/debug/
+target/release/.fingerprint/
+target/release/.cargo-lock
+target/release/build/
+target/release/deps/
+target/release/guessing_game.d
